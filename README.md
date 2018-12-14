@@ -7,7 +7,8 @@ Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou)
 ------------------------------------------------------------------
 # ATTENTION :
 <b>Cette interface est un peu particulière par rapport aux autres interfaces de ma création, il s'agit d'une multi-interface superposable, modifiable et paramétrable à volonté.
-<p>Pour plus de détails sur son fonctionnement, vous pouvez voir le tutoriel vidéo lui étant dédié à l'adresse suivante : http://xxxxxxxxxx</b></p>
+<p>Pour plus de détails sur son fonctionnement, vous pouvez voir le tutoriel vidéo lui étant dédié à l'adresse suivante : http://xxxxxxxxxx
+<p>Vous trouverez sur ce dosssier l'interface graphique de base modifiable, les interfaces superposables seront ajoutées sous d'autres répertoires de mon Github sous forme d'add-on avec un mode d'emploi dédié.</b></p>
 
 ------------------------------------------------------------------
 
