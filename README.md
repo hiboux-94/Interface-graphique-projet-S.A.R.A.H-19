@@ -9,8 +9,8 @@ Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou) adaptable 
 <b>Cette interface est un peu particulière par rapport aux autres interfaces de ma création, il s'agit ici d'une multi-interface superposable, modifiable et paramétrable à volonté.
 <p>Pour plus de détails sur son fonctionnement, vous pouvez voir le tutoriel vidéo lui étant dédié à l'adresse suivante : http://xxxxxxxxxx
 <p>Ne pouvant pas mettre plus de 100 fichiers par répertoire Github, vous trouverez sur ce répertoire l'interface graphique de base modifiable, les interfaces graphiques superposables à celle-ci seront ajoutées sous d'autres répertoires de mon Github sous forme d'Add-On avec un mode d'emploi dédié.
-<p>Add-On n°1 pour Jarvis V2 avec 3 interfaces animées différentes "Visage-Alien" / "Visage-Femme" / "Visage-Homme" : http://xxxxxxxxxxx
-<p>Add-On n°2 pour Jarvis V2 avec 3 interfaces animées différentes "HAL-9000-grand" / "HAL-9000-petit" / "Vu-metre-01" : http://xxxxxxxxxxx</b></p>
+<p>Add-On n°1 pour Jarvis V2 avec 3 interfaces animées différentes "Visage-Alien" / "Visage-Femme" / "Visage-Homme" : https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-1
+<p>Add-On n°2 pour Jarvis V2 avec 3 interfaces animées différentes "HAL-9000-grand" / "HAL-9000-petit" / "Vu-metre-01" : https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-2</b></p>
 
 ------------------------------------------------------------------
 
