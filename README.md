@@ -20,7 +20,7 @@ https://www.rainmeter.net/
 
 Téléchargez l'interface graphique en cliquant sur le bouton vert en haut à droite "Clone or download" puis cliquez sur "Download ZIP" pour la télécharger sur un emplacement de votre disque dur, puis dézippez le répertoire sous C:/user/xxx/documents/rainmeter/skins/
 
-ATTENTION : Cette interface graphique est différente des autres et contient :
+# ATTENTION : Cette interface graphique est différente des autres et contient :
 
 1 dossier du nom de l'interface graphique "Jarvis-V2" pour Rainmeter contenant lui-même :
 
@@ -34,7 +34,8 @@ Voir manipulations sous rainmeter plus bas.
 (optionnel) Si vous désirez aller plus loin et pouvoir créer une animation par vous même, téléchargez et installer une version de CrazyTalk. Une version 7, Standard edition, à  15 euros est suffisante.
 
 
-Manipulations dans RainMeter
+Manipulations dans RainMeter :
+
 1 => dézipper et copier le dossier "Jarvis-V2" sous le répertoire "skins" de Rainmeter (généralement sous C:/Users/xxxx/Documents/Rainmeter/Skins/)
 
 2 => Lancer RainMeter, puis cliquer sur l’icône dans le systray pour afficher la fenêtre de gestion.
