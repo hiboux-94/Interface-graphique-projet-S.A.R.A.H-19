@@ -19,9 +19,9 @@ Pré-requis :
 Téléchargez et installez RainMeter (Gratuit)
 https://www.rainmeter.net/
 
-Téléchargez l'interface graphique en cliquant sur le bouton vert en haut à droite "Clone or download" puis cliquez sur "Download ZIP" pour la télécharger sur un emplacement de votre disque dur, puis dézippez le répertoire sous C:/user/xxx/documents/rainmeter/skins/
+Téléchargez cette interface graphique en cliquant sur le bouton vert en haut à droite "Clone or download" puis cliquez sur "Download ZIP" pour la télécharger sur un emplacement de votre disque dur, puis dézippez le répertoire sous C:/user/xxx/documents/rainmeter/skins/
 
-## ATTENTION : Cette interface graphique est différente des autres et contient :
+### ATTENTION : Cette interface graphique est différente des autres et contient :
 
 #### 1 dossier du nom de l'interface graphique "Jarvis-V2" pour Rainmeter contenant lui-même :
 
