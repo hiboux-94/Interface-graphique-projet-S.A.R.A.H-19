@@ -14,7 +14,8 @@ Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou) adaptable 
 
 ------------------------------------------------------------------
 
-Pré-requis
+Pré-requis :
+
 Téléchargez et installez RainMeter (Gratuit)
 https://www.rainmeter.net/
 
