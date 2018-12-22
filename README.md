@@ -11,28 +11,22 @@ Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou) adaptable 
   https://youtu.be/0-DYnLummg0
 <p>Ne pouvant pas mettre plus de 100 fichiers par répertoire Github, vous trouverez sur ce répertoire l'interface graphique de base modifiable, les interfaces graphiques superposables à celle-ci seront ajoutées sous d'autres répertoires de mon Github sous forme d'Add-On avec un mode d'emploi dédié.
 <p>Add-On n°1 pour Jarvis V2 avec 3 interfaces animées différentes "Visage-Alien" / "Visage-Femme" / "Visage-Homme" :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-1
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-1
 
 <p>Add-On n°2 pour Jarvis V2 avec 3 interfaces animées différentes "HAL-9000-grand" / "HAL-9000-petit" / "Vu-metre-01" :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-2
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-2
 
 <p>Add-On n°3 pour Jarvis V2 avec des dizaines de rings supplémentaires sur le thème SteamPunk :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-3
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-3
 
 <p>Add-On n°4 pour Jarvis V2 avec des dizaines de noms d'interface supplémentaires sur le thème SteamPunk :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-4
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-4
 
 <p>Add-On n°5 pour Jarvis V2 avec des dizaines de rings supplémentaires sur le thème Néon :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-5
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-5
 
 <p>Add-On n°6 pour Jarvis V2 avec plusieurs skins vocaux supplémentaires sous forme de vu-mètre :
-  
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-6
+  https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-6
 </b></p>
 
 ------------------------------------------------------------------
