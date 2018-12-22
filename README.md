@@ -12,7 +12,7 @@ Cette interface est un peu particulière par rapport aux autres interfaces de ma
 Pour plus de détails sur son fonctionnement, vous pouvez voir le tutoriel vidéo lui étant dédié à l'adresse suivante :
   https://youtu.be/0-DYnLummg0
 
-Ne pouvant pas mettre plus de 100 fichiers par répertoire Github, vous trouverez sur ce répertoire l'interface graphique de base modifiable, les interfaces graphiques superposables à celle-ci seront ajoutées sous d'autres répertoires de mon Github sous forme d'Add-On avec un mode d'emploi dédié.
+Ne pouvant pas mettre plus de 100 fichiers par répertoire Github, vous trouverez sur ce répertoire l'interface graphique de base modifiable, les interfaces graphiques superposables à celle-ci, et/ou d'autres additifs tel que rings supplémentaires, seront ajoutées sous d'autres répertoires de mon Github sous forme d'Add-On avec un mode d'emploi dédié.
 
 #### Add-On n°1 pour Jarvis V2 avec 3 interfaces animées différentes "Visage-Alien" / "Visage-Femme" / "Visage-Homme" :
 
