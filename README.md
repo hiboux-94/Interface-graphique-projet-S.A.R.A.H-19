@@ -24,19 +24,19 @@ https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-2
 
 #### Add-On n°3 pour Jarvis V2 avec des dizaines de rings supplémentaires sur le thème SteamPunk :
 
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-3
+https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-03
 
 #### Add-On n°4 pour Jarvis V2 avec des dizaines de noms d'interface supplémentaires sur le thème SteamPunk :
 
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-4
+https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-04
 
 #### Add-On n°5 pour Jarvis V2 avec des dizaines de rings supplémentaires sur le thème Néon :
 
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-5
+https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-05
 
 #### Add-On n°6 pour Jarvis V2 avec plusieurs skins vocaux supplémentaires sous forme de vu-mètre :
 
-https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-6
+https://github.com/hiboux-94/Interface-graphique-JARVIS-V2-Add-On-06
 
 ------------------------------------------------------------------
 
